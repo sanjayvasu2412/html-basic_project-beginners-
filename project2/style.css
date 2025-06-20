@@ -1,0 +1,33 @@
+h1{
+    color: rgb(189, 8, 245);
+    font-style:oblique;
+}
+h2{
+    color: rgb(24, 8, 245);
+}
+h3{
+    font-size: 30px;
+    background-color: rgba(238, 4, 187, 0.550);
+    font-style: italic;
+}
+label{
+    font-style: italic;
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    color: darkmagenta;
+    text-decoration: none;
+}
+input{
+    font-size: 15px;
+}
+select{
+    font-size: 15px;
+}
+body{
+    background-color:rgba(9, 238, 238, 0.37);
+}
+table{
+    background-color: rgba(238, 4, 187, 0.550);
+}

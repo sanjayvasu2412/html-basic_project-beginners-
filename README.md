@@ -8,7 +8,7 @@ This project contains a simple and non-responsive HTML registration form (only f
 
 - Beautiful header with branding and tagline  
 - Scrolling announcement using `<marquee>`  
-- Navigation bar with Home and Contact links *(NOT RESPONSIVE)*  
+- Navigation bar with Home and Contact links *(NON RESPONSIVE)*  
 - Footer with social media links (Instagram and YouTube) *(RESPONSIVE)*  
 
 📂 File Structure
@@ -21,7 +21,7 @@ This project contains a simple and non-responsive HTML registration form (only f
 - HTML5  
 - Basic CSS (In the "project2")
 
-📋 How to Use
+📋 How to Use ?
 
 1. Clone or download the repository.
 2. Open `reg_form.html` in your browser to view the registration form.

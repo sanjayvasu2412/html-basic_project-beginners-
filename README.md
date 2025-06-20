@@ -14,7 +14,12 @@ This project contains a simple and non-responsive HTML registration form (only f
 📂 File Structure
 
 - `reg_form.html` → Main HTML file  
-- `images/` → Folder containing images (e.g., `smile.png`, `insta.jpg`, `youtube.png`)  
+- `images/` → Folder containing images (e.g., `smile.png`, `insta.jpg`, `youtube.png`)
+
+🛠️ Technologies Used
+
+- HTML5  
+- Basic CSS (In the "project2")
 
 📋 How to Use
 

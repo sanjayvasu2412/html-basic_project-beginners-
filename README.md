@@ -1,6 +1,6 @@
 Sanjay Tutorial - Registration Form
 
-Welcome to the **Sanjay Tutorial Registration Form** project! 🎉
+Welcome to the Sanjay Tutorial Registration Form project! 🎉
 
 This project contains a simple and non-responsive HTML registration form (only front-end) for students and learners.
 
@@ -8,8 +8,8 @@ This project contains a simple and non-responsive HTML registration form (only f
 
 - Beautiful header with branding and tagline  
 - Scrolling announcement using `<marquee>`  
-- Navigation bar with Home and Contact links *(NON RESPONSIVE)*  
-- Footer with social media links (Instagram and YouTube) *(RESPONSIVE)*  
+- Navigation bar with Home and Contact links (NON RESPONSIVE) 
+- Footer with social media links (Instagram and YouTube) (RESPONSIVE) 
 
 📂 File Structure
 
